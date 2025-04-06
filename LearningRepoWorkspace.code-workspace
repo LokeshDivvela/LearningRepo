@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "VisualStudioPython"
+			"path": "learn-react"
 		},
 		{
-			"path": "learn-react"
+			"path": "VisualStudioPython"
 		}
 	],
 	"settings": {}
